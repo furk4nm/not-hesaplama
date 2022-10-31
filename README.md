@@ -1,5 +1,6 @@
 # not-hesaplama
- Console.Write("notunuzu giriniz: ");
+
+            Console.Write("notunuzu giriniz: ");
             int not = Convert.ToInt32(Console.ReadLine()); 
 
             if (not >= 0 && not <= 30)
